@@ -29,7 +29,6 @@ More projects coming soon — feel free to suggest or add your own!
    git clone https://github.com/tm4rtin17/small-python-projects.git
    cd small-python-projects
    ```
-   (Most projects are pure Python — no external dependencies needed unless noted in the project README.)
 
 ## How to Contribute
 
@@ -45,7 +44,7 @@ Contributions are very welcome — this repo is meant to grow with the community
 
 ### Steps to add your project
 1. Fork the repository
-2. Create a new folder in the root (use kebab-case or snake_case, e.g. password-generator)
+2. Create a new folder in the root (use snake_case, e.g. password_generator)
 3. Add your code files + a short README.md inside the folder explaining:
    - What the project does
    - What Python concepts it practices
@@ -56,7 +55,6 @@ Contributions are very welcome — this repo is meant to grow with the community
 
 ### Please keep projects:
 - Self-contained (minimal or no external libraries when possible)
-- Under ~200–300 lines total when feasible
 - Well-commented and easy to understand
 
 ## License
